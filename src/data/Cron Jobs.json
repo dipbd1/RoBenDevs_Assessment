@@ -1,0 +1,27 @@
+{
+  "service_name": "Cron Jobs",
+  "last_failed": "2021-10-01T10:30:00Z",
+  "failure_count": 3,
+  "failures": [
+    {
+      "error_message": "Invalid credentials",
+      "timestamp": "2021-10-01T10:30:00Z"
+    },
+    {
+      "error_message": "Payment failed",
+      "timestamp": "2021-10-02T14:45:00Z"
+    },
+    {
+      "error_message": "Invalid credentials",
+      "timestamp": "2021-10-03T10:30:00Z"
+    },
+    {
+      "error_message": "Payment failed",
+      "timestamp": "2021-10-04T14:45:00Z"
+    },
+    {
+      "error_message": "Invalid credentials",
+      "timestamp": "2021-10-05T10:30:00Z"
+    }
+  ]
+}
